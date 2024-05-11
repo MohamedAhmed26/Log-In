@@ -194,7 +194,7 @@ body {
     border: 1px solid var(--blue-alt-color);
     color: var(--blue-alt-color);
 }
-.full .content .info .but button.two {
+.full .content .info .but .two {
     color: var(--blue-alt-color);
     border: 1px solid var(--blue-alt-color);
     background: white;
@@ -206,8 +206,9 @@ body {
     -moz-transition: 0.3s;
     -ms-transition: 0.3s;
     -o-transition: 0.3s;
+    text-decoration: none;
 }
-.full .content .info .but button.two:hover {
+.full .content .info .but .two:hover {
     color: white;
     border: 1px solid var(--blue-alt-color);
     background: var(--blue-alt-color);

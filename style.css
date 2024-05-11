@@ -167,7 +167,7 @@ body {
     align-items: center;
     justify-content: center;
 }
-.full .content .info a {
+.full .content .info .forget {
     color: var(--blue-color);
     text-decoration: none;
     margin-bottom: 20px;
@@ -219,9 +219,6 @@ body {
     display: block;
     margin-top: 18px;
 }
-.full .content .info .icon {
-
-}
 .full .content .info .icon i {
     background: white;
     padding: 15px;
@@ -255,3 +252,4 @@ body {
     }
 }
 /* End Page */
+/* خلصناااااااااااا */
